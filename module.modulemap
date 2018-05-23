@@ -1,0 +1,4 @@
+module Cext [system] {
+    header "Cext.h"
+    export *
+}
